@@ -1,0 +1,11 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+@media(max-width: 1200px) {
+  .text-text {
+    align-self: center;
+    text-align: left;
+    font-family: Lato;
+  }
+}

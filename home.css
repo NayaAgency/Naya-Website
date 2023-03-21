@@ -373,6 +373,7 @@
 .footer-container {
   color: var(--dl-color-gray-white);
   width: 100%;
+  height: 390px;
   display: flex;
   padding: var(--dl-space-space-tripleunit);
   z-index: 1;
@@ -1074,9 +1075,9 @@
   flex-direction: column;
 }
 .home-top-wave-image2 {
-  right: -8px;
+  left: -23px;
   width: 100%;
-  bottom: 389px;
+  bottom: 429px;
   position: absolute;
   object-fit: cover;
 }
